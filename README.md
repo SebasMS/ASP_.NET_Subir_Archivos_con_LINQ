@@ -3,4 +3,4 @@ LINQ o Language Integrated Query son un conjunto herramientas de Microsoft para 
 
 LINQ nace en el Framework 3.5 y en la actualidad tiene una gran aceptación entre el mundo de .NET, tanto es asi, que enseguida salen proveedores de terceros, para el uso de este lenguaje con JSON, CSVs, o incluso APIs como la de Twitter y Wikipedia.
 
-Hoy les comparto un proyecto para subir o almacenar achivos en una base de datos, fabricado con ASP .NET, C# y LINQ. Espero les guste.
+Hoy les comparto un proyecto para subir achivos en una base de datos, fabricado con ASP .NET, C# y LINQ. Espero les guste.
